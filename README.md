@@ -7,12 +7,12 @@ N O N (ENTER)\
 
 where N is a number and O is either a math or logical comparison operator. Each token is separated by a space. The entire entry must be entered as a single input with one enter key click.
 
-The Math operators that must be accepted are:\
+The Math operators that must be accepted are:
 + addition
 - subtraction
 * multiplication\
-/ division\
-% modulus
++/ division\
+-% modulus
 
 The comparison operators are:\
 == equals\
@@ -20,8 +20,8 @@ The comparison operators are:\
 @= absolute value of both are equal\
 < less than\
 <= less than or equals\
-> greater than
->= greater than or equals
+> greater than\
+>= greater than or equals\
 
 The use of math operators will cause the resulting number to be displayed.
 
